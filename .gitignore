@@ -75,4 +75,7 @@ yarn-error.log
 *~
 *.swp
 
+# Python
+.venv/
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos
