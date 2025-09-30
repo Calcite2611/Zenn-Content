@@ -11,8 +11,8 @@ SCRAP_DIR = os.path.join(os.getcwd(), "Scrap")
 # Markdown テンプレート
 TEMPLATE = """# Day {day_number} - {date}
 
-### タイトル
-{{今日の学習内容やテーマを簡潔に書く}}
+### 学習内容
+{{今日学習した内容の要約を記載}}
 
 ### TryHackMe Room / Lab
 - Room名 / Lab名: {{例: Linux Fundamentals}}
